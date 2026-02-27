@@ -17,4 +17,6 @@ django-cors-headers
 # Работа с переменными окружения (рекомендуется)
 django-environ
 
-gunicorn whitenoise
+gunicorn
+ 
+whitenoise
