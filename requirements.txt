@@ -1,0 +1,18 @@
+# Основной фреймворк
+Django>=5.0
+
+# База данных (Supabase/PostgreSQL)
+psycopg2-binary
+
+# API и Аутентификация
+djangorestframework
+djangorestframework-simplejwt
+
+# Работа с изображениями и медиа
+Pillow
+
+# CORS (на случай, если друг будет подключать фронтенд)
+django-cors-headers
+
+# Работа с переменными окружения (рекомендуется)
+django-environ
